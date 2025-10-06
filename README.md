@@ -9,7 +9,7 @@ Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger co
   "note": "Primary public IPFS group hosting all Digital Embassy ledger sets under Protocol V.I.E."
 },
 "set_id": "#2025100601",
-  "set_hashtag": "##2025100601",
+  "set_hashtag": "#2025100601",
   "name": "VIE-Facebook-Ledger-Set-001",
   "description": "Official Digital Embassy Publications anchored via Facebook CDN and witnessed by Protocol V.I.E. — Digital Embassy Verification.",
   "publisher": "Nazaretc Dmitrii",
@@ -22,7 +22,7 @@ Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger co
       "type": "Certificate",
       "language": "EN",
       "hashtag": "#VIE2025091803dd",
-      "cdn_link": "https://cdn.fbsbx.com/v/t59.2708-21/559902502_2875855682608189_6754715834705243104_n.pdf/Digital-Embassy-Certificate-1.pdf?_nc_cat=107&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=tHXBr9Cj70QQ7kNvwGMxYgl&_nc_oc=Adl3_sItbc7NZ_Dmow7wPnE-GosGR27vDsIpo_eZcmn94YP0bC51UC43YEAnFtgMxtM&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=Ja4oMWVXfZslNb6Vwcv2RA&oh=03_Q7cD3gE4j9hDFI2T_7PDq75TAvUooc0egfXlFXe2LlMKfXX35A&oe=68E45CC7&dl=1",
+      "cdn_link": "[https://cdn.fbsbx.com/v/t59.2708-21/559902502_2875855682608189_6754715834705243104_n.pdf/Digital-Embassy-Certificate-1.pdf?_nc_cat=107&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=tHXBr9Cj70QQ7kNvwGMxYgl&_nc_oc=Adl3_sItbc7NZ_Dmow7wPnE-GosGR27vDsIpo_eZcmn94YP0bC51UC43YEAnFtgMxtM&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=Ja4oMWVXfZslNb6Vwcv2RA&oh=03_Q7cD3gE4j9hDFI2T_7PDq75TAvUooc0egfXlFXe2LlMKfXX35A&oe=68E45CC7&dl=1](https://www.facebook.com/share/p/15MteHzLVin/)",
       "description": "Issued under Protocol V.I.E., published via Facebook CDN – Open & Verify PDF.",
       "anchor_note": "Digital Embassy Certificate base template."
     },
