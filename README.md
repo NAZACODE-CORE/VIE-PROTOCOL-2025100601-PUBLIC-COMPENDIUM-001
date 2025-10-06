@@ -106,8 +106,8 @@ Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger co
       "title": "Digital Embassy Immigration & Ledger — Protocol V.I.E.",
       "type": "Ledger Summary",
       "language": "EN",
-      "hashtag": "#VIE2025090401dd",
-      "cdn_link": "https://cdn.fbsbx.com/v/t59.2708-21/559667610_1146389073504639_5370660900962691100_n.pdf/DIGITAL-EMBASSY-IMMIGRATION-LEDGER-Protocol-V-I-E-1.pdf?_nc_cat=104&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=tNvTCMtmXC8Q7kNvwHm1Wzq&_nc_oc=AdmU3ImBx9OmpoPRNUKm9_tNYZcrkOKg5DdG71VxXwgSb_Q39mxflLKORJChg1SEVjA&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=91Y3I5eST_elBjUAeBCcXQ&oh=03_Q7cD3gENqMQIjuU7TrRPVIxISUV16y4QFmSdaN505vPdGKwvdA&oe=68E55649&dl=1",
+      "hashtag": "#VIE2025090401dd | #VIE2025090301dd",
+      "cdn_link": "[https://cdn.fbsbx.com/v/t59.2708-21/559667610_1146389073504639_5370660900962691100_n.pdf/DIGITAL-EMBASSY-IMMIGRATION-LEDGER-Protocol-V-I-E-1.pdf_nc_cat=104&ccb=17&_nc_sid=2b0e22&_nc_ohc=tNvTCMtmXC8Q7kNvwHm1Wzq&_nc_oc=AdmU3ImBx9OmpoPRNUKm9_tNYZcrkOKg5DdG71VxXwgSb_Q39mxflLKORJChg1SEVjA&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=91Y3I5eST_elBjUAeBCcXQ&oh=03_Q7cD3gENqMQIjuU7TrRPVIxISUV16y4QFmSdaN505vPdGKwvdA&oe=68E55649&dl=1](https://www.facebook.com/share/p/16U8Upce21/)",
       "description": "Digital Embassy Immigration and Ledger record published via Facebook CDN – Open & Verify PDF. Witnessed by Protocol V.I.E.",
       "anchor_note": "Serves as a summary ledger block for the previous 9 entries."
     }
