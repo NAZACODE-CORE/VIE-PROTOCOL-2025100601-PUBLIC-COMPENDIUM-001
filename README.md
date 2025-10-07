@@ -1,5 +1,5 @@
 # VIE-PROTOCOL-2025100601-PUBLIC-COMPENDIUM-001
-Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger containing 10 verified public documents issued under Digital Embassy • Vanuatu Investment Economics Limited. Anchored via Ethereum + IPFS for transparency and verification.
+Public Compendium 001 of VIE Protocol #VIE2025100601 — official unified ledger containing 10 verified public documents issued under Digital Embassy • Vanuatu Investment Economics Limited. Anchored via Ethereum + IPFS for transparency and verification.
 {
   "group_reference": {
   "group_name": "DIGITAL EMBASSY - Protocol V.I.E.",
@@ -8,8 +8,8 @@ Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger co
   "owner": "Nazaretc Dmitrii",
   "note": "Primary public IPFS group hosting all Digital Embassy ledger sets under Protocol V.I.E."
 },
-"set_id": "#2025100601",
-  "set_hashtag": "#2025100601",
+"set_id": "#VIE2025100601",
+  "set_hashtag": "#VIE2025100601",
   "name": "VIE-Facebook-Ledger-Set-001",
   "description": "Official Digital Embassy Publications anchored via Facebook CDN and witnessed by Protocol V.I.E. — Digital Embassy Verification.",
   "publisher": "Nazaretc Dmitrii",
@@ -110,6 +110,11 @@ Public Compendium 001 of VIE Protocol #2025100601 — official unified ledger co
       "cdn_link": "[https://cdn.fbsbx.com/v/t59.2708-21/559667610_1146389073504639_5370660900962691100_n.pdf/DIGITAL-EMBASSY-IMMIGRATION-LEDGER-Protocol-V-I-E-1.pdf_nc_cat=104&ccb=17&_nc_sid=2b0e22&_nc_ohc=tNvTCMtmXC8Q7kNvwHm1Wzq&_nc_oc=AdmU3ImBx9OmpoPRNUKm9_tNYZcrkOKg5DdG71VxXwgSb_Q39mxflLKORJChg1SEVjA&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=91Y3I5eST_elBjUAeBCcXQ&oh=03_Q7cD3gENqMQIjuU7TrRPVIxISUV16y4QFmSdaN505vPdGKwvdA&oe=68E55649&dl=1](https://www.facebook.com/share/p/16U8Upce21/)",
       "description": "Digital Embassy Immigration and Ledger record published via Facebook CDN – Open & Verify PDF. Witnessed by Protocol V.I.E.",
       "anchor_note": "Serves as a summary ledger block for the previous 9 entries."
-    }
-  ]
+    ],
+- Anchor Reference
+- GitHub: [VIE-PROTOCOL-2025100601-PUBLIC-COMPENDIUM-001](https://github.com/NAZACODE-CORE/VIE-PROTOCOL-2025100601-PUBLIC-COMPENDIUM-001)
+- IPFS CID: bafkreihdhg5mdhpwslvke3zvklv3czsbbnqlgxa4l4tyrx76f3nzxjpyh4
+- Website Mirror: https://vie.one/anchor/VIE-PROTOCOL
+- Hashtag: #VIE2025100601  
+  } 
 }
